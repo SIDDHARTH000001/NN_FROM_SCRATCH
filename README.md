@@ -1,3 +1,3 @@
 # NERUAL NETWORK FROM SCRATCH
 
-![](aftergradient.png)
+![](after_gradient.png)
